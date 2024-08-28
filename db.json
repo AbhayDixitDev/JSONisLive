@@ -1,5 +1,7 @@
 {
-  "host": "https://abhaydixitdev.github.io/Admin-Dashboard/",
+  "host": {
+    "url": "https://abhaydixitdev.github.io/Admin-Dashboard/"
+  },
 
 "Product": [
 {
